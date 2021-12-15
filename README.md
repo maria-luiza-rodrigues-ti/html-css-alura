@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	🚧  GoBeyond Desafio Final 🚀 Em Andamento 🚀 🚧
+	🚧  Barbearia Alura 🚀 Em Andamento 🚀 🚧
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 💻 Sobre o projeto
 
-O intuito desse projeto foi criar um site da Barbearia Alura, utilizando HTML e CSS.
+O intuito desse projeto foi criar um website da loja fictícia Barbearia Alura, utilizando HTML e CSS. Esse projeto faz parte do curso de HTML5 e CSS3 da plataforma [Alura](https://www.alura.com.br/).
 
 ---
 
@@ -22,15 +22,20 @@ O intuito desse projeto foi criar um site da Barbearia Alura, utilizando HTML e 
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com). 
-Além disso, é bom ter um editor para trabalhar com o código, como o [VSCode](https://code.visualstudio.com/).
+Além disso, sugiro utilizar o editor [VSCode](https://code.visualstudio.com/) para trabalhar no código com a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) instalada.
 
 ```bash
 
 # Clone este repositório
 $ git clone https://github.com/mluizarodrigues/gobeyond-desafio-final
 
-# Vá para a pasta da aplicação Front End
+# Vá para a pasta da aplicação Front-End
 $ cd gobeyond-desafio-final
+
+# Abra o código no VS Code
+$ code .
+
+# Clique no botão Go Live na barra inferior do VS Code, no canto direito
 
 ```
 
