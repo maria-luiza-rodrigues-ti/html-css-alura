@@ -18,18 +18,19 @@ O intuito desse projeto foi criar um site da Barbearia Alura, utilizando HTML e 
 
 ## 🚀 Como executar o projeto
 
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com). 
+Além disso, é bom ter um editor para trabalhar com o código, como o [VSCode](https://code.visualstudio.com/).
+
 ```bash
+
 # Clone este repositório
 $ git clone https://github.com/mluizarodrigues/gobeyond-desafio-final
 
 # Vá para a pasta da aplicação Front End
 $ cd gobeyond-desafio-final
-
-### Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com). 
-Além disso, é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ```
 
