@@ -1,0 +1,45 @@
+.first-title {
+  padding-left: 20px;
+}
+
+#banner {
+  width: 100%;
+}
+
+.section-about {
+  background: #cccccc;
+  padding: 30px;
+  text-align: center;
+}
+
+#mission {
+    font-size: 20px;
+}
+
+em strong {
+    color: #FF0000;
+}
+
+.section-benefits {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+.section-benefits h3 {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.img-benefits {
+    width: 50%;
+}
