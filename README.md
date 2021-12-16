@@ -27,10 +27,10 @@ Além disso, sugiro utilizar o editor [VSCode](https://code.visualstudio.com/) p
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/mluizarodrigues/gobeyond-desafio-final
+$ git clone https://github.com/maria-luiza-rodrigues-ti/html-css-alura
 
 # Vá para a pasta da aplicação Front-End
-$ cd gobeyond-desafio-final
+$ cd html-css-alura
 
 # Abra o código no VS Code
 $ code .
