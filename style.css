@@ -1,6 +1,13 @@
+/* HEADER */
+
 header {
     background: #BBBBBB;
     padding: 20px;
+    margin: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
 }
 
 .header-box {
@@ -33,13 +40,25 @@ nav a:hover {
     text-decoration: underline;
 }
 
+/* FIM DO HEADER */
+
+/* TÍTULO PRINCIPAL */
+
 .first-title {
   padding-left: 20px;
 }
 
+/* FIM DO TÍTULO PRINCIPAL */
+
+/*BANNER*/
+
 #banner {
   width: 100%;
 }
+
+/* FIM DO BANNER */
+
+/* SEÇÃO SOBRE */
 
 .section-about {
   background: #cccccc;
@@ -54,6 +73,10 @@ nav a:hover {
 em strong {
     color: #FF0000;
 }
+
+/* FIM DA SEÇÃO SOBRE */
+
+/* SEÇÃO BENEFÍCIOS */
 
 .section-benefits {
     background: #FFFFFF;
@@ -78,3 +101,21 @@ em strong {
 .img-benefits {
     width: 50%;
 }
+
+/* FIM DA SEÇÃO BENEFÍCIOS */
+
+ /*FOOTER*/
+
+ footer {
+    background-image: url("bg.jpg");
+    text-align: center;
+    padding: 40px 0;
+  }
+  
+  footer p{
+      color: #FFFFFF;
+      font-size: 13px;
+      margin: 20px 0 0;
+  }
+
+ /*FIM DO FOOTER*/
