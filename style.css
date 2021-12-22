@@ -231,3 +231,23 @@ td, th {
 }
 
   /* FIM FORMULÁRIO PÁGINA DE CONTATO */
+
+  /* LAYOUT RESPONSIVO */
+
+  @media screen and (max-width: 480px) {
+    .header-box, .section-about, .benefits-content, .map-content, .video {
+        width: auto;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    nav {
+        position: static;
+    }
+
+    .benefits-list, .img-benefits {
+        width: 100%;
+    }
+  }
