@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	🚧  Barbearia Alura 🚀 Em Andamento 🚀 🚧
+	🚧  Barbearia Alura 🚀 Finalizado 🚀 🚧
 </h1>
 
 <p align="center">
